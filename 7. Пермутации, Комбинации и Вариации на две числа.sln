@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Пермутации, Комбинации и Вариации на две числа", "7. Пермутации, Комбинации и Вариации на две числа\7. Пермутации, Комбинации и Вариации на две числа.csproj", "{E44E429E-C70E-4E91-9D5B-B28393BB2BA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E44E429E-C70E-4E91-9D5B-B28393BB2BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E44E429E-C70E-4E91-9D5B-B28393BB2BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E44E429E-C70E-4E91-9D5B-B28393BB2BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E44E429E-C70E-4E91-9D5B-B28393BB2BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF243070-1260-48CF-A522-3625F6602334}
+	EndGlobalSection
+EndGlobal
